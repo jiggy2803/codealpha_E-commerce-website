@@ -1,0 +1,15 @@
+.order-div{
+    text-align: center;
+}
+.badge-img{
+    border-radius: 100%;
+    height: 200px;
+}
+a.back-link{
+    text-decoration: none;
+    color: #E90064;
+}
+a.back-link:hover{
+    color: red;
+    text-decoration: none;
+}
