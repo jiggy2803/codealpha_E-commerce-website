@@ -1,0 +1,80 @@
+.cricket-image{
+    height: 250px;
+    width: 270px;
+    position: relative;
+    left: 100px;
+    top: 100px;
+}
+img.cricket-image{
+    border: 2px solid black;
+}
+.login-div{
+    background-color: #BACDDB;
+    height: 420px;
+    width: 70%;
+    position: absolute;
+    left: 20%;
+    top: 15%;
+}
+body{
+    text-align: center;
+}
+.login-heading{
+    text-align: center;
+    color: #FC2947;
+}
+.input-div{
+    position: relative;
+    top: 150px;
+    padding: 10px;
+    /* left: 70px; */
+    
+}
+form{
+    background-color: #BACDDB;
+
+}
+.btn{
+    text-align: center;
+}
+
+.primary-btn-div{
+    text-align: center;
+}
+.btn-primary{
+    padding: 10px;
+    margin: 10px;
+}
+.btn-warning{
+    padding: 10px;
+}
+.btn-warning:hover{
+    text-decoration: none;
+}
+.back-link{
+    color: white;
+    margin: 5px;
+    
+}
+.back-link:hover{
+    text-decoration: none;
+}
+.register-link{
+    color: white
+}
+.register-link:hover{
+    text-decoration: none;
+}
+.back-button{
+    margin-bottom: 4px;
+}
+.login-heading-text{
+    text-align: center;
+    color: #77037B;
+}
+@media(max-width:500px){
+    form{
+        padding: 10px;
+    }
+  
+}
