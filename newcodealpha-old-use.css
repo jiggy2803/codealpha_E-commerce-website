@@ -1,0 +1,424 @@
+.second-div{
+    background-color: #FFFBAC;
+    text-align: center;
+    margin-top: 5px;
+}
+a.nav-link.premium-offers {
+    color: red;
+    font-size: 20px;
+    font-weight: 800;
+}
+a.nav-link.premium-offers:hover{
+    background-color: black;
+}
+/* body{
+    background-color: #181823;
+    color: #fff;
+}
+.custom-toggler.navbar-toggler {
+    border-color: rgb(255,102,203);
+} 
+.custom-toggler .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,102,203, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+h1{
+    color: #fff;
+} */
+.heading-2{
+    text-align: center;
+    padding-top: 20px;
+    color: #A61F69;
+    font-family: 'Chivo Mono', monospace;
+    font-size: 50px;
+    font-weight: 600;
+}
+.top-div{
+    background-color: #F6F7C1;
+}
+.fa-solid{
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.nav-link{
+    color: #645CBB;
+    font-weight: 500;
+}
+
+.nav-link:hover{
+    background-color: #fff;
+    color: black;
+}
+.navbar-dark .navbar-brand {
+    color: black;
+}
+.img-keeper-gloves{
+    /* background-color: red;
+    width: 100%;
+     */
+    height: 200px;
+    width: 210px;
+    background-color: #fff;
+    border-radius: 100%;
+    transition: transform 0.5s;
+}
+.img-keeper-gloves:hover{
+    border: 2px solid red;  
+    transform: translateY(-5px);
+}
+.img-shoes{
+    height: 200px;
+    width: 210px;
+    background-color: #fff;
+    border-radius: 100%;
+    transition: transform 0.5s;
+}
+.img-shoes:hover{
+    border: 2px solid red;
+    transform: translateY(-5px);
+}
+.img-kit{
+    height: 200px;
+    width: 210px;
+    background-color: #fff;
+    border-radius: 100%;
+    transition: transform 0.5s;
+}
+.img-kit:hover{
+    border: 2px solid red;
+    transform: translateY(-5px);
+}
+.img-helmet{
+    height: 200px;
+    width: 210px;
+    background-color: #fff;
+    border-radius: 100%;
+    transition: transform 0.5s;
+}
+.img-helmet:hover{
+    border: 2px solid red;
+    transform: translateY(-5px);
+}
+.img-gloves{
+    height: 200px;
+    width: 210px;
+    background-color: #fff;
+    border-radius: 100%;
+    transition: transform 0.5s;
+}
+.img-gloves:hover{
+    border: 2px solid red;
+    transform: translateY(-5px);
+}
+.img-bat{
+    height: 200px;
+    width: 210px;
+    background-color: #fff;
+    border-radius: 100%;
+    transition: transform 0.5s;
+}
+.img-bat:hover{
+    border: 2px solid red;
+    transform: translateY(-5px);
+}
+.img-ball{
+    height: 200px;
+    width: 210px;
+    background-color: #fff;
+    border-radius: 100%;
+    transition: transform 0.5s;
+}
+.img-ball:hover{
+    border: 2px solid red;
+    transform: translateY(-5px);
+}
+.images-div{
+    margin-top: 20px;
+}
+.keeper-glove-text{
+    text-align: center;
+}
+.ball-text{
+    text-align: center;
+}
+.bat-text{
+    text-align: center;
+}
+.glove-text{
+    text-align: center;
+}
+.helmet-text{
+    text-align: center;
+}
+.kit-text{
+    text-align: center;
+}
+.shoe-text{
+    text-align: center;
+}
+.fav-items{
+    text-align: center;
+    margin-top: 5px;
+    color: #FF6000;
+}
+.fav-div{
+    background-color: #FFE6C7;
+}
+.fav-brand{
+    text-align: center;
+    color: #FC2947;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.brand-div{
+    background-color: #B9E9FC;
+}
+.mrf-img{
+    height: 200px;
+    width: 210px;
+    background-color: #fff;
+    border-radius: 100%;
+    transition: transform 0.5s;
+}
+.mrf-text{
+    text-align: center;
+}
+.mrf-img:hover{
+    border: 2px solid #E21818;
+    transform: translateY(-5px);
+}
+.new-balance-img{
+    height: 200px;
+    width: 210px;
+    background-color: #fff;
+    border-radius: 100%;
+    transition: transform 0.5s;
+}
+.nb-text{
+    text-align: center;
+}
+.new-balance-img:hover{
+    border: 2px solid #E21818;
+    transform: translateY(-5px);
+}
+.kokobura-img{
+    height: 200px;
+    width: 210px;
+    background-color: #fff;
+    border-radius: 100%;
+    transition: transform 0.5s;
+}
+.kokobura-text{
+    text-align: center;
+}
+.kokobura-img:hover{
+    border: 2px solid #E21818;
+    transform: translateY(-5px);
+}
+.dsc-img{
+    height: 200px;
+    width: 210px;
+    background-color: #fff;
+    border-radius: 100%;
+    transition: transform 0.5s;
+}
+.dsc-text{
+    text-align: center;
+}
+.dsc-img:hover{
+    border: 2px solid #E21818;
+    transform: translateY(-5px);
+}
+.puma-img{
+    height: 200px;
+    width: 210px;
+    background-color: #fff;
+    border-radius: 100%;
+    transition: transform 0.5s;
+}
+.puma-text{
+    text-align: center;
+}
+.puma-img:hover{
+    border: 2px solid #E21818;
+    transform: translateY(-5px);
+}
+.sg-img{
+    height: 200px;
+    width: 210px;
+    background-color: #fff;
+    border-radius: 100%;
+    transition: transform 0.5s;
+}
+.sg-text{
+    text-align: center;
+}
+.sg-img:hover{
+    border: 2px solid #E21818; 
+    transform: translateY(-5px);   
+}
+.brand-div{
+    margin-top: 5px;
+}
+.features-div{
+    background-color: #FAEDCD;
+    margin-top: 5px;
+}
+.ss-bats-img{
+    height: 200px;
+    width: 210px;
+    padding: 10px;
+    text-align: center;
+    
+}
+.ss-bats-img:hover{
+    
+    
+
+}
+.ss-div:hover{
+    box-shadow: 10px 5px 5px 5px #C9A7EB;
+    transform: translateY(-5px);
+}
+.ss-div{
+    transition: transform 0.5s;
+}
+.ss-div:hover{
+
+}
+.mrf-div{
+    transition: transform 0.5s; 
+}
+.mrf-div:hover{
+    transform: translateY(-5px);
+    box-shadow: 10px 5px 5px 5px #C9A7EB;
+}
+.ball-div{
+    transition: transform 0.5s;
+}
+.ball-div:hover{
+    transform: translateY(-5px);
+    box-shadow: 10px 5px 5px 5px #C9A7EB;
+}
+.helmet-div{
+    transition: transform 0.5s;
+}
+.helmet-div:hover{
+    transform: translateY(-5px);
+    box-shadow: 10px 5px 5px 5px #C9A7EB;
+}
+.mrf-bats{
+    height: 200px;
+    width: 210px;
+    padding: 10px;
+    text-align: center;
+}
+.pink-ball{
+    height: 200px;
+    width: 210px;
+    padding: 10px;
+    text-align: center;
+}
+.helmet{
+    height: 200px;
+    width: 210px;
+    padding: 10px;
+    text-align: center;
+}
+.ss-bat-text{
+    text-align: center;
+}
+.mrf-bat-text{
+    text-align: center;
+}
+.pink-ball-text{
+    text-align: center;
+}
+.helmet-text{
+    text-align: center;
+}
+.first-price{
+    text-decoration:line-through;
+}
+.img-inner-div{
+    text-align: center;
+}
+.brand-img-inner-div{
+    text-align: center;
+}
+.fav-inner-div{
+    text-align: center;
+}
+.special-features-heading{
+    text-align: center;
+    color: #00005C;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.list-items{
+    list-style: none;
+    padding: 5px;  
+}
+.categories-heading{
+    color: #FF4C29;
+    text-align: center;
+}
+a.categories{
+    color:  white;
+    font-size: 20px;
+}
+a.categories:hover{
+    text-decoration: none;
+    color: #E21818;
+}
+.footer-container{
+    background-color: #413F42;
+    margin-top: 5px;
+}
+.brands-heading{
+    color: #FF4C29;
+    text-align: center;
+}
+.list-items{
+    text-align: center;
+}
+.social-media{
+    padding: 10px;
+}
+a.social-media:hover{
+    color: white;
+}
+.contact-us-heading{
+    color: #FF4C29;
+    padding-bottom: 5px;
+}
+.contact-us-heading-div{
+    text-align: center;
+}
+.social-media-div{
+    text-align: center;
+}
+a.fb-logo{
+    color: white;
+}
+a.fb-logo:hover{
+    color:rgb(80, 80, 177) ;
+}
+a.insta-logo{
+    color: white;
+}
+a.insta-logo:hover{
+    color: palevioletred;
+}
+a.twitter-logo{
+    color: white;
+}
+a.twitter-logo:hover{
+    color: skyblue;
+}
+a.order-link{
+    color: white;
+}
+a.order-link:hover{
+    color: red;
+    text-decoration: none;
+}
