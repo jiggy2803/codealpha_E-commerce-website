@@ -1,0 +1,241 @@
+a.nav-link.premium-offers {
+    color: red;
+    font-size: 20px;
+    font-weight: 800;
+}
+a.nav-link.premium-offers:hover{
+    background-color: black;
+}
+.heading-2{
+    text-align: center;
+    padding-top: 20px;
+    color: #A61F69;
+    font-family: 'Chivo Mono', monospace;
+    font-size: 50px;
+    font-weight: 600;
+}
+.top-div{
+    background-color: #F6F7C1;
+}
+.fa-solid{
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.nav-link{
+    color: #645CBB;
+    font-weight: 500;
+}
+
+.nav-link:hover{
+    background-color: #fff;
+    color: black;
+}
+.navbar-dark .navbar-brand {
+    color: black;
+}
+.second-div{
+    background-color: #FFFBAC;
+    text-align: center;
+    margin-top: 5px;
+}
+.footer-container{
+    background-color: #413F42;
+    margin-top: 5px;
+}
+.categories-heading{
+    color: #FF4C29;
+    text-align: center;
+}
+a.categories{
+    color:  white;
+    font-size: 20px;
+}
+a.categories:hover{
+    text-decoration: none;
+    color: #E21818;
+}
+.list-items{
+    list-style: none;
+    padding: 5px;  
+}
+.brands-heading{
+    color: #FF4C29;
+    text-align: center;
+}
+.list-items{
+    text-align: center;
+}
+.social-media{
+    padding: 10px;
+}
+a.social-media:hover{
+    color: white;
+}
+.contact-us-heading{
+    color: #FF4C29;
+    padding-bottom: 5px;
+}
+.contact-us-heading-div{
+    text-align: center;
+}
+.social-media-div{
+    text-align: center;
+}
+#sort-by{
+    position: absolute;
+    right: 10px;
+    padding: 5px;
+    margin: 15px;
+    width: 10%;
+}
+.first-price{
+    text-decoration: line-through;
+}
+.percentage-off{
+    right: 0;
+    top: 0;
+    border-radius: 0;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16.8px;
+    padding: 5px 7px;
+    margin: 0;
+    height: auto;
+    background: #283891;
+    color: #fff;
+    position: absolute;
+    z-index: 10;
+}
+/* ---------------------------code starts from here----------------------------- */
+.mrf-thigh-pad{
+    height: 200px;
+    width: 210px;
+    transition: transform 0.5s;
+}
+
+.mrf-gloves{
+    height: 200px;
+    width: 210px;
+    transition: transform 0.5s;
+}
+
+.mrf-helmet{
+    height: 200px;
+    width: 210px;
+    transition: transform 0.5s;
+}
+
+.mrf-legpads{
+    height: 200px;
+    width: 210px;
+    transition: transform 0.5s;
+}
+
+.mrf-kit{
+    height: 200px;
+    width: 210px;
+    transition: transform 0.5s;
+}
+
+.mrf-stumps{
+    height: 200px;
+    width: 210px;
+    transition: transform 0.5s;
+}
+
+.mrf-bat-1{
+    height: 200px;
+    width: 210px;
+    transition: transform 0.5s;
+}
+
+.mrf-bat-2-vk{
+    height: 200px;
+    width: 210px;
+    transition: transform 0.5s;
+}
+
+.mrf-bat-3{
+    height: 200px;
+    width: 210px;
+    transition: transform 0.5s;
+}
+
+.mrf-bat-4-abd{
+    height: 200px;
+    width: 210px;
+    transition: transform 0.5s;
+}
+.mrf-bat-4-abd:hover{
+
+}
+.mrf-bats{
+    height: 200px;
+    width: 210px;
+    transition: transform 0.5s;
+}
+.mrf-bats:hover{
+
+}
+.mrf-bat-5{
+    height: 200px;
+    width: 210px;
+    transition: transform 0.5s;
+}
+.mrf-bat-5:hover{
+
+}
+.mrf-bat-6{
+    height: 200px;
+    width: 210px;
+    
+}
+.mrf-1{
+   transition: transform 0.5s;
+   text-align: center;
+   padding: 10px;
+}
+.mrf-1:hover{
+    transform: translateY(-5px);
+    box-shadow: 10px 5px 5px 5px #C9A7EB;
+}
+.koko-1{
+    transition: transform 0.5s;
+    text-align: center;
+    padding: 10px;
+}
+.koko-1:hover{
+    transform: translateY(-5px);
+    box-shadow: 10px 5px 5px 5px #C9A7EB;   
+}
+.mrf-bat-heading{
+    text-align: center;
+}
+.mrf-accessories-heading{
+    text-align: center;
+}
+a.fb-logo{
+    color: white;
+}
+a.fb-logo:hover{
+    color:rgb(80, 80, 177) ;
+}
+a.insta-logo{
+    color: white;
+}
+a.insta-logo:hover{
+    color: palevioletred;
+}
+a.twitter-logo{
+    color: white;
+}
+a.twitter-logo:hover{
+    color: skyblue;
+}
+a.order-link{
+    color: white;
+}
+a.order-link:hover{
+    color: red;
+    text-decoration: none;
+}
